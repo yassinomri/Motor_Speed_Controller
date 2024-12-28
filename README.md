@@ -12,7 +12,7 @@ Welcome to our DC Motor Control and Monitoring System! This project uses an STM3
 - Real-time motor control through USB virtual COM port.
 - Dynamic speed adjustment via a sleek Qt GUI.
 - Emergency braking system.
-- LED feedback for motor status and alerts.
+- LED feedback for motor status and alerts (using built-in STM32 LEDs due to the absence of a real DC motor).
 
 ---
 
